@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'travel-nomads-app' in project 'travel-nomads-app' (no dependencies)

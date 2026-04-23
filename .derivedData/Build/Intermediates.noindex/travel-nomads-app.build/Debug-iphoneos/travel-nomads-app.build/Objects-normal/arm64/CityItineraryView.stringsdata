@@ -1,0 +1,112 @@
+{
+  "source": "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/travel-nomads-app/Views/Mapkit/CityItineraryView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%@ trip planner",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 290
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search places in %@",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Saved",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 171
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search Results",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search Results (%lld)",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 185
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save to Map",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 213
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recommended Places",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 228
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove from Map",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 262
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save to Map",
+        "location": {
+          "startingColumn": 81,
+          "startingLine": 262
+        }
+      },
+      {
+        "comment": "",
+        "key": "💡 Discover places above or search for specific locations",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 280
+        }
+      },
+      {
+        "comment": "",
+        "key": "My saved itinerary",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 299
+        }
+      },
+      {
+        "comment": "",
+        "key": " saved to itinerary!",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 320
+        }
+      },
+      {
+        "comment": "",
+        "key": "Check the spelling - we couldn't find that location",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 340
+        }
+      }
+    ]
+  },
+  "version": 1
+}

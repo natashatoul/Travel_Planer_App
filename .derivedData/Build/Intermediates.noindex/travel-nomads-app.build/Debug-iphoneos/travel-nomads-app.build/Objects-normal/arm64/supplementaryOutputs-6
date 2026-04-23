@@ -1,0 +1,23 @@
+{
+  "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/travel-nomads-app/Views/Mapkit/CityItineraryView.swift" : {
+    "const-values" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CityItineraryView.swiftconstvalues",
+    "dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CityItineraryView.d",
+    "diagnostics" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CityItineraryView.dia",
+    "object" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CityItineraryView.o",
+    "swift-dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CityItineraryView.swiftdeps"
+  },
+  "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/travel-nomads-app/Views/Mapkit/CityListView.swift" : {
+    "const-values" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CityListView.swiftconstvalues",
+    "dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CityListView.d",
+    "diagnostics" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CityListView.dia",
+    "object" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CityListView.o",
+    "swift-dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CityListView.swiftdeps"
+  },
+  "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/travel-nomads-app/Views/Mapkit/SavedItinerariesView.swift" : {
+    "const-values" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/SavedItinerariesView.swiftconstvalues",
+    "dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/SavedItinerariesView.d",
+    "diagnostics" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/SavedItinerariesView.dia",
+    "object" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/SavedItinerariesView.o",
+    "swift-dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/SavedItinerariesView.swiftdeps"
+  }
+}

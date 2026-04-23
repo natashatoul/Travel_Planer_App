@@ -1,0 +1,40 @@
+{
+  "source": "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/travel-nomads-app/Views/Calculator/QuotesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Saved Budgets",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Budgets Yet",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create a budget!",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total: £%.2f",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 60
+        }
+      }
+    ]
+  },
+  "version": 1
+}

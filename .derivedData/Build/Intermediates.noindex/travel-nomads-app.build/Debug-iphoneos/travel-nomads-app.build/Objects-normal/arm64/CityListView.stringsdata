@@ -1,0 +1,48 @@
+{
+  "source": "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/travel-nomads-app/Views/Mapkit/CityListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Saved Locations",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld saved location(s)",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lat: %.4f, Lon: %.4f",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Full Database Reset",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "No saved locations yet",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 86
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,23 @@
+{
+  "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/travel-nomads-app/ViewModels/Mapkit/GeoLocationViewModel.swift" : {
+    "const-values" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/GeoLocationViewModel.swiftconstvalues",
+    "dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/GeoLocationViewModel.d",
+    "diagnostics" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/GeoLocationViewModel.dia",
+    "object" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/GeoLocationViewModel.o",
+    "swift-dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/GeoLocationViewModel.swiftdeps"
+  },
+  "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/travel-nomads-app/ViewModels/WeatherViewModel.swift" : {
+    "const-values" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/WeatherViewModel.swiftconstvalues",
+    "dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/WeatherViewModel.d",
+    "diagnostics" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/WeatherViewModel.dia",
+    "object" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/WeatherViewModel.o",
+    "swift-dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/WeatherViewModel.swiftdeps"
+  },
+  "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/travel-nomads-app/ViewModels/WikipediaViewModel.swift" : {
+    "const-values" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/WikipediaViewModel.swiftconstvalues",
+    "dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/WikipediaViewModel.d",
+    "diagnostics" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/WikipediaViewModel.dia",
+    "object" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/WikipediaViewModel.o",
+    "swift-dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/WikipediaViewModel.swiftdeps"
+  }
+}

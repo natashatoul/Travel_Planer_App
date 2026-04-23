@@ -1,0 +1,23 @@
+{
+  "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/travel-nomads-app/Data/ModelControllers/Calculator/CalculatorController.swift" : {
+    "const-values" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CalculatorController.swiftconstvalues",
+    "dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CalculatorController.d",
+    "diagnostics" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CalculatorController.dia",
+    "object" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CalculatorController.o",
+    "swift-dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CalculatorController.swiftdeps"
+  },
+  "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/travel-nomads-app/Data/ModelControllers/Mapkit/LocationController.swift" : {
+    "const-values" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/LocationController.swiftconstvalues",
+    "dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/LocationController.d",
+    "diagnostics" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/LocationController.dia",
+    "object" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/LocationController.o",
+    "swift-dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/LocationController.swiftdeps"
+  },
+  "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/travel-nomads-app/Models/Calculator/CalculatorModel.swift" : {
+    "const-values" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CalculatorModel.swiftconstvalues",
+    "dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CalculatorModel.d",
+    "diagnostics" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CalculatorModel.dia",
+    "object" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CalculatorModel.o",
+    "swift-dependencies" : "/Users/nataliakiriachek/Documents/Учеба/Mobile App Development/Coursework/travel-nomads-app/.derivedData/Build/Intermediates.noindex/travel-nomads-app.build/Debug-iphoneos/travel-nomads-app.build/Objects-normal/arm64/CalculatorModel.swiftdeps"
+  }
+}
